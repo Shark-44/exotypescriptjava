@@ -6,4 +6,5 @@ export class User {
     size: number;
     photos: Photo[];
     address: Address; 
+    
 }
